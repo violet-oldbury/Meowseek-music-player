@@ -1,0 +1,15 @@
+C:\Users\2402127\OneDrive - Kirklees College\techy\programming\music player\music player\bin\Debug\music player.exe.config
+C:\Users\2402127\OneDrive - Kirklees College\techy\programming\music player\music player\bin\Debug\music player.exe
+C:\Users\2402127\OneDrive - Kirklees College\techy\programming\music player\music player\bin\Debug\music player.pdb
+C:\Users\2402127\OneDrive - Kirklees College\techy\programming\music player\music player\obj\Debug\music player.csproj.AssemblyReference.cache
+C:\Users\2402127\OneDrive - Kirklees College\techy\programming\music player\music player\obj\Debug\music_player.Properties.Resources.resources
+C:\Users\2402127\OneDrive - Kirklees College\techy\programming\music player\music player\obj\Debug\music player.csproj.GenerateResource.cache
+C:\Users\2402127\OneDrive - Kirklees College\techy\programming\music player\music player\obj\Debug\music player.csproj.CoreCompileInputs.cache
+C:\Users\2402127\OneDrive - Kirklees College\techy\programming\music player\music player\obj\Debug\music player.exe
+C:\Users\2402127\OneDrive - Kirklees College\techy\programming\music player\music player\obj\Debug\music player.pdb
+C:\Users\2402127\OneDrive - Kirklees College\techy\programming\music player\music player\bin\Debug\Interop.WMPLib.dll
+C:\Users\2402127\OneDrive - Kirklees College\techy\programming\music player\music player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\2402127\OneDrive - Kirklees College\techy\programming\music player\music player\obj\Debug\Interop.WMPLib.dll
+C:\Users\2402127\OneDrive - Kirklees College\techy\programming\music player\music player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\2402127\OneDrive - Kirklees College\techy\programming\music player\music player\obj\Debug\music player.csproj.ResolveComReference.cache
+C:\Users\2402127\OneDrive - Kirklees College\techy\programming\music player\music player\obj\Debug\music_player.meowseek.resources
